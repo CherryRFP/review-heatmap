@@ -465,50 +465,50 @@ select.hm-sel:active, select.hm-sel:focus {
 .night_mode .rh-theme-flame .rh-col19{color: #fed976}
 .night_mode .rh-theme-flame .rh-col20{color: #ffeda0}
 
-/* light rainbow */
-.rh-theme-flame .cal-heatmap-container .q11{fill: #ff8f8f}
-.rh-theme-flame .cal-heatmap-container .q12{fill: #f89b5e}
-.rh-theme-flame .cal-heatmap-container .q13{fill: #deaf3f}
-.rh-theme-flame .cal-heatmap-container .q14{fill: #b1c253}
-.rh-theme-flame .cal-heatmap-container .q15{fill: #74d087}
-.rh-theme-flame .cal-heatmap-container .q16{fill: #20d5bf}
-.rh-theme-flame .cal-heatmap-container .q17{fill: #0dd0ef}
-.rh-theme-flame .cal-heatmap-container .q18{fill: #6ac3ff}
-.rh-theme-flame .cal-heatmap-container .q19{fill: #a9b3ff}
-.rh-theme-flame .cal-heatmap-container .q20{fill: #d823ff}
+/* rainbow */
+.rh-theme-rainbow .cal-heatmap-container .q11{fill: #ff8f8f}
+.rh-theme-rainbow .cal-heatmap-container .q12{fill: #f89b5e}
+.rh-theme-rainbow .cal-heatmap-container .q13{fill: #deaf3f}
+.rh-theme-rainbow .cal-heatmap-container .q14{fill: #b1c253}
+.rh-theme-rainbow .cal-heatmap-container .q15{fill: #74d087}
+.rh-theme-rainbow .cal-heatmap-container .q16{fill: #20d5bf}
+.rh-theme-rainbow .cal-heatmap-container .q17{fill: #0dd0ef}
+.rh-theme-rainbow .cal-heatmap-container .q18{fill: #6ac3ff}
+.rh-theme-rainbow .cal-heatmap-container .q19{fill: #a9b3ff}
+.rh-theme-rainbow .cal-heatmap-container .q20{fill: #d823ff}
 
-.rh-theme-flame .rh-col11{color: #ff8f8f}
-.rh-theme-flame .rh-col12{color: #f89b5e}
-.rh-theme-flame .rh-col13{color: #deaf3f}
-.rh-theme-flame .rh-col14{color: #b1c253}
-.rh-theme-flame .rh-col15{color: #74d087}
-.rh-theme-flame .rh-col16{color: #20d5bf}
-.rh-theme-flame .rh-col17{color: #0dd0ef}
-.rh-theme-flame .rh-col18{color: #6ac3ff}
-.rh-theme-flame .rh-col19{color: #a9b3ff}
-.rh-theme-flame .rh-col20{color: #d823ff}
+.rh-theme-rainbow .rh-col11{color: #ff8f8f}
+.rh-theme-rainbow .rh-col12{color: #f89b5e}
+.rh-theme-rainbow .rh-col13{color: #deaf3f}
+.rh-theme-rainbow .rh-col14{color: #b1c253}
+.rh-theme-rainbow .rh-col15{color: #74d087}
+.rh-theme-rainbow .rh-col16{color: #20d5bf}
+.rh-theme-rainbow .rh-col17{color: #0dd0ef}
+.rh-theme-rainbow .rh-col18{color: #6ac3ff}
+.rh-theme-rainbow .rh-col19{color: #a9b3ff}
+.rh-theme-rainbow .rh-col20{color: #d823ff}
 
-.night_mode .rh-theme-flame .cal-heatmap-container .q11{fill: #d823ff}
-.night_mode .rh-theme-flame .cal-heatmap-container .q12{fill: #a9b3ff}
-.night_mode .rh-theme-flame .cal-heatmap-container .q13{fill: #6ac3ff}
-.night_mode .rh-theme-flame .cal-heatmap-container .q14{fill: #0dd0ef}
-.night_mode .rh-theme-flame .cal-heatmap-container .q15{fill: #20d5bf}
-.night_mode .rh-theme-flame .cal-heatmap-container .q16{fill: #74d087}
-.night_mode .rh-theme-flame .cal-heatmap-container .q17{fill: #b1c253}
-.night_mode .rh-theme-flame .cal-heatmap-container .q18{fill: #deaf3f}
-.night_mode .rh-theme-flame .cal-heatmap-container .q19{fill: #f89b5e}
-.night_mode .rh-theme-flame .cal-heatmap-container .q20{fill: #ff8f8f}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q11{fill: #d823ff}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q12{fill: #a9b3ff}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q13{fill: #6ac3ff}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q14{fill: #0dd0ef}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q15{fill: #20d5bf}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q16{fill: #74d087}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q17{fill: #b1c253}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q18{fill: #deaf3f}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q19{fill: #f89b5e}
+.night_mode .rh-theme-rainbow .cal-heatmap-container .q20{fill: #ff8f8f}
 
-.night_mode .rh-theme-flame .rh-col11{color: #d823ff}
-.night_mode .rh-theme-flame .rh-col12{color: #a9b3ff}
-.night_mode .rh-theme-flame .rh-col13{color: #6ac3ff}
-.night_mode .rh-theme-flame .rh-col14{color: #0dd0ef}
-.night_mode .rh-theme-flame .rh-col15{color: #20d5bf}
-.night_mode .rh-theme-flame .rh-col16{color: #74d087}
-.night_mode .rh-theme-flame .rh-col17{color: #b1c253}
-.night_mode .rh-theme-flame .rh-col18{color: #deaf3f}
-.night_mode .rh-theme-flame .rh-col19{color: #f89b5e}
-.night_mode .rh-theme-flame .rh-col20{color: #ff8f8f}
+.night_mode .rh-theme-rainbow .rh-col11{color: #d823ff}
+.night_mode .rh-theme-rainbow .rh-col12{color: #a9b3ff}
+.night_mode .rh-theme-rainbow .rh-col13{color: #6ac3ff}
+.night_mode .rh-theme-rainbow .rh-col14{color: #0dd0ef}
+.night_mode .rh-theme-rainbow .rh-col15{color: #20d5bf}
+.night_mode .rh-theme-rainbow .rh-col16{color: #74d087}
+.night_mode .rh-theme-rainbow .rh-col17{color: #b1c253}
+.night_mode .rh-theme-rainbow .rh-col18{color: #deaf3f}
+.night_mode .rh-theme-rainbow .rh-col19{color: #f89b5e}
+.night_mode .rh-theme-rainbow .rh-col20{color: #ff8f8f}
 
 
 /* Platform-specific adjustments / workarounds */
